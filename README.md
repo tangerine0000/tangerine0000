@@ -57,6 +57,7 @@
 
 ## 📫 Connect with Me
 - GitHub: [@tangerine0000](https://github.com/tangerine0000)
+- Portfolio: [tanport.netlify.app](https://www.tanport.netlify.app)
 
 ---
 ⭐️ From [tangerine0000](https://github.com/tangerine0000) 
