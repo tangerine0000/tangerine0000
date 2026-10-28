@@ -1,63 +1,57 @@
-# 👋 Hi there, I'm Nguyễn Thanh Tân
+# Tan Nguyen
 
-## 🎓 About Me
-- 🏫 Computer Science student at VNUHCM - University of Science
-- 💻 Aspiring Computer Engineer
-- 🌱 Currently learning and exploring new technologies
-- 🎯 Passionate about software development and problem-solving
+<p>
+  <strong>Software & AI Engineer</strong> · Ho Chi Minh City, Vietnam<br>
+  Building thoughtful agentic systems, LLM pipelines, and clean web architectures.
+</p>
 
-## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript
-- **Web Development**: Django, React
-- **Tools & Technologies**: Git, GitHub, VS Code
-- **Other Skills**: Problem Solving, Data Structures & Algorithms
-
-## 🏆 GitHub Achievements
-- 🎯 YOLO Achievement
-- 🦈 Pull Shark (x2)
-- ⚡ Quickdraw
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tangerine0000&show_icons=true&theme=radical)
-
-##    Featured Projects
-
-### Web Development
-- [Django Final Project IBM Coursera](https://github.com/tangerine0000/django_final_project_IBM_coursera)
-  - Full-stack web application built with Django and JavaScript
-  - Features user authentication, database management, and RESTful APIs
-  - Part of IBM Coursera certification
-
-### API Development
-- [URL Shortener API](https://github.com/tangerine0000/url-shortener-api)
-  - RESTful API for URL shortening service
-  - Built with JavaScript and modern web technologies
-  - Includes rate limiting and analytics features
-
-### CLI Tools
-- [Task Manager CLI](https://github.com/tangerine0000/task-manager-cli)
-  - Command-line task management application
-  - Built with JavaScript
-  - Features task creation, tracking, and organization
-
-### AI/ML Projects
-- [GDSC Solution 2023](https://github.com/iamnmt/gdsc-solution-2023)
-  - Python-based solution for Google Developer Student Clubs
-  - Implements machine learning algorithms
-  - Focuses on practical problem-solving
-
-## 📈 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tangerine0000&theme=radical)
-
-## 🎯 Current Focus
-- 🔍 Exploring new web development frameworks
-- 📚 Learning advanced algorithms and data structures
-- 🤖 Diving deeper into AI and machine learning
-- 🌐 Contributing to open-source projects
-
-## 📫 Connect with Me
-- GitHub: [@tangerine0000](https://github.com/tangerine0000)
-- Portfolio: [tanport.netlify.app](https://tanport.netlify.app/about.html)
+<p>
+  <a href="https://tanport.netlify.app">Portfolio</a> &ensp;·&ensp;
+  <a href="https://tanport.netlify.app/work/">Work</a> &ensp;·&ensp;
+  <a href="https://tanport.netlify.app/writing/">Writing</a> &ensp;·&ensp;
+  <a href="https://github.com/tangerine0000">GitHub</a> &ensp;·&ensp;
+  <a href="mailto:tan.nguyen@innomizetech.com">Email</a>
+</p>
 
 ---
-⭐️ From [tangerine0000](https://github.com/tangerine0000) 
+
+### About
+
+I'm a Computer Science student at **VNU-HCMUS (University of Science)** working at the intersection of **AI engineering** and **full-stack software development**. 
+
+My current focus centers on **agentic workflows**, retrieval-augmented generation (**RAG**), and **Spec-Driven Development (SDD)**—leveraging frameworks like the Elephant-Goldfish Model (EGM) to design and stress-test systems before building.
+
+---
+
+### Featured Systems & Work
+
+| System | Focus | Tech Stack |
+| :--- | :--- | :--- |
+| **[Portfolio & Writing Stream](https://tanport.netlify.app)** | Soft text-led landing fork with static routing, side-rail navigation, and instantaneous dark mode. | Vanilla JS, Modern CSS, Netlify |
+| **[AI Chatbot & Vector Search](https://github.com/tangerine0000)** | Conversational assistant leveraging hybrid semantic retrieval and contextual embeddings. | Python, LangChain, FastAPI, FAISS |
+| **[Web Scraping & Intelligence Pipeline](https://github.com/tangerine0000)** | High-throughput asynchronous crawling and structured data transformation engine. | Python, Playwright, asyncio |
+| **[Elephant-Goldfish Workflow](https://github.com/google/elephant-goldfish-model)** | Multi-agent spec-driven development and zero-context verification pipelines using Antigravity. | Shell, Python, Markdown, EGM |
+
+---
+
+### Toolbox
+
+- **Languages**: Python, JavaScript, TypeScript, SQL, Bash
+- **AI & Agentic Systems**: LLM Orchestration, RAG, Vector Search (FAISS), LangChain, Antigravity (AGY), Claude Code
+- **Backend & Web**: FastAPI, Django, React, Node.js, RESTful APIs, Semantic HTML & Modern CSS
+- **Tools & Workflow**: Git, Linux, Docker, Netlify, VS Code, Test-Driven & Spec-Driven Development
+
+---
+
+### Writing & Notes
+
+Selected notes and reflections from [tanport.netlify.app/writing](https://tanport.netlify.app/writing/):
+- *Notes on Local LLMs and Small Models*
+- *Simplicity in Web Tooling and Vanilla Architectures*
+- *Spec-Driven Engineering: Designing with Elephants, Reviewing with Goldfish*
+
+---
+
+<p align="center">
+  <sub>Grounded in simplicity, clarity, and proof of work.</sub>
+</p>
