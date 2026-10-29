@@ -8,7 +8,6 @@
 <p>
   <a href="https://tanport.netlify.app">Portfolio</a> &ensp;·&ensp;
   <a href="https://tanport.netlify.app/work/">Work</a> &ensp;·&ensp;
-  <a href="https://tanport.netlify.app/writing/">Writing</a> &ensp;·&ensp;
   <a href="https://github.com/tangerine0000">GitHub</a> &ensp;·&ensp;
   <a href="mailto:tan.nguyen@innomizetech.com">Email</a>
 </p>
@@ -27,9 +26,10 @@ My current focus centers on **agentic workflows**, retrieval-augmented generatio
 
 | System | Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **[Portfolio & Writing Stream](https://tanport.netlify.app)** | Soft text-led landing fork with static routing, side-rail navigation, and instantaneous dark mode. | Vanilla JS, Modern CSS, Netlify |
-| **[AI Chatbot & Vector Search](https://github.com/tangerine0000)** | Conversational assistant leveraging hybrid semantic retrieval and contextual embeddings. | Python, LangChain, FastAPI, FAISS |
-| **[Web Scraping & Intelligence Pipeline](https://github.com/tangerine0000)** | High-throughput asynchronous crawling and structured data transformation engine. | Python, Playwright, asyncio |
+| **[Developer Portfolio](https://tanport.netlify.app)** | Soft text-led showcase with split fork navigation, pre-paint dark mode, and categorized project views. | Vanilla JS, Modern CSS, Netlify |
+| **[AI Web Scraper & Extraction Engine](https://github.com/tangerine0000/ai-agents-playground)** | Production content extraction and structured summarization pipeline pulling domain intelligence. | Python, Playwright, LangChain, Streamlit |
+| **[Enterprise FAISS Semantic Search](https://github.com/tangerine0000/ai-agents-playground)** | Vector database search engine enabling fast semantic similarity matching and interactive Q&A. | Python, FAISS, Vector DB, LangChain |
+| **[AI Chatbot & Memory Service](https://github.com/tangerine0000/ai-agents-playground)** | Conversational assistant with contextual vector search, local model deployment, and session memory. | Python, LangChain, FastAPI, Ollama |
 | **[Elephant-Goldfish Workflow](https://github.com/google/elephant-goldfish-model)** | Multi-agent spec-driven development and zero-context verification pipelines using Antigravity. | Shell, Python, Markdown, EGM |
 
 ---
@@ -40,15 +40,6 @@ My current focus centers on **agentic workflows**, retrieval-augmented generatio
 - **AI & Agentic Systems**: LLM Orchestration, RAG, Vector Search (FAISS), LangChain, Antigravity (AGY), Claude Code
 - **Backend & Web**: FastAPI, Django, React, Node.js, RESTful APIs, Semantic HTML & Modern CSS
 - **Tools & Workflow**: Git, Linux, Docker, Netlify, VS Code, Test-Driven & Spec-Driven Development
-
----
-
-### Writing & Notes
-
-Selected notes and reflections from [tanport.netlify.app/writing](https://tanport.netlify.app/writing/):
-- *Notes on Local LLMs and Small Models*
-- *Simplicity in Web Tooling and Vanilla Architectures*
-- *Spec-Driven Engineering: Designing with Elephants, Reviewing with Goldfish*
 
 ---
 
